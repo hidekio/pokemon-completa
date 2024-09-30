@@ -1,0 +1,27 @@
+.fundo1{
+    background-image: url(pikachu\ fundo.jpg);
+    background-size: cover;
+}
+.button{
+    background-color: rgba(255, 255, 255, 0.555);
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+    transition: 0.5s;
+}
+.button:hover{
+    background-color: transparent;
+    height: 60px;
+    width: 110px;
+}
+.caixa {
+    position: relative;
+    height: 20;
+    background-color: aqua;
+    border: 2px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px ;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+
+}

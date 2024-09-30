@@ -1,0 +1,23 @@
+{
+    "nome": "Charmander",
+    "sinopse": "Charmander, inicial de Kanto, é um Pokémon do tipo Fogo com <br> chama na cauda que reflete <br>sua saúde e humor. Evolui para Charmeleon e Charizard, famoso por seus ataques de fogo.",
+    "preco": "R$ 1.000.000 ",
+    "imagem": "<img src = 'https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png'   width='300px'>",
+
+    
+    "nome2": "Squirtle",
+    "sinopse2": "Squirtle, Pokémon Água de Kanto, tem forma de tartaruga azul,<br> usa casco para proteção. Líder do Esquadrão Squirtle, une-se a Ash,<br> mantendo óculos e habilidades como jato d'água.",
+    "preco2": "R$ 1.000.000",
+    "imagem2": "<img src = 'https://toppng.com/uploads/thumbnail/squirtle-glasses-png-squirtle-with-glasses-11563023501gh5cz9k4kl.png' width='300px'>",
+    
+    
+
+    "nome3": "bulbasauro",
+    "sinopse3": "Bulbasaur, um Pokémon planta/venenoso, <br> é um inicial de Kanto com aparência de dinossauro com bulbo nas costas.<br> Fiel, protetor e estratégico em batalhas.",
+    "preco3": "R$35,00",
+    "imagem3": "<img src = 'https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png'>"
+
+
+
+
+}

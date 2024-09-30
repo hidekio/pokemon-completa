@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperatura</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="css-img/style.css">
+    <link rel="stylesheet" href="barra.css">
+    <link rel="stylesheet" href="fundodos3.css">
+</head>
+<body class="fundo1">
+    <header>
+        <nav class="navbar">
+            
+            <a class="espaco1" href="index.html" style="margin-left: 40px;">home</a>
+            <a class="espaco1" href="dolar.html" style="margin: 150px;">Dolar</a>
+            <a class = 'espaco2' href="clima.html" style="margin-left: 100px;">Clima</a>
+            <a class="espaco1" href="cep.html">Cep</a>
+            <a class="espaco1" href="cpf.html">Cpf</a>
+            <a class="espaco1" href="fake.html">E-comerce</a>
+            <a class="espaco1" href="pokdex.html">Tema</a>
+            <a class="espaco1" href="apertar6botao.html">pokemon</a>
+            
+        </nav>
+    </header>
+    <main style="display: flex;
+    justify-content: center;
+    flex-wrap: wrap;">
+        <div class="caixa">
+            <h1>Previsão do tempo</h1>
+            <p>Digite o nome da cidade</p>
+            <input type="text" id="city">
+            <button onclick="getWeather()">Pesquisar</button>
+            <p id="temperatura">Aguarde...</p>
+        
+        
+        
+        </div>
+    </main>
+
+
+    <footer>Todos direitos reservados a Gabriel Hideki Eguchi</footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
